@@ -1,0 +1,2 @@
+BOT_TOKEN = "7237028292:AAFCHJfDypuKCAveFmjc9ifypC4cP6-vZMU"
+CHANNEL_ID = "@uc_vzlom_apk4"
